@@ -1,0 +1,137 @@
+country_name,country_code,indicator_name,indicator_code,year16
+"Low & middle income",LMY,"External debt stocks, total (DOD, current US$)",DT.DOD.DECT.CD,6880000000000
+"Middle income",MIC,"External debt stocks, total (DOD, current US$)",DT.DOD.DECT.CD,6760000000000
+"Upper middle income",UMC,"External debt stocks, total (DOD, current US$)",DT.DOD.DECT.CD,4980000000000
+"East Asia & Pacific ",EAP,"External debt stocks, total (DOD, current US$)",DT.DOD.DECT.CD,2310000000000
+"Lower middle income",LMC,"External debt stocks, total (DOD, current US$)",DT.DOD.DECT.CD,1770000000000
+"Latin America & Caribbean",LAC,"External debt stocks, total (DOD, current US$)",DT.DOD.DECT.CD,1740000000000
+"Europe & Central Asia",ECA,"External debt stocks, total (DOD, current US$)",DT.DOD.DECT.CD,1520000000000
+China,CHN,"External debt stocks, total (DOD, current US$)",DT.DOD.DECT.CD,1430000000000
+"South Asia",SAS,"External debt stocks, total (DOD, current US$)",DT.DOD.DECT.CD,627000000000
+Brazil,BRA,"External debt stocks, total (DOD, current US$)",DT.DOD.DECT.CD,543000000000
+"Russian Federation",RUS,"External debt stocks, total (DOD, current US$)",DT.DOD.DECT.CD,525000000000
+India,IND,"External debt stocks, total (DOD, current US$)",DT.DOD.DECT.CD,456000000000
+"Sub-Saharan Africa",SSA,"External debt stocks, total (DOD, current US$)",DT.DOD.DECT.CD,454000000000
+Mexico,MEX,"External debt stocks, total (DOD, current US$)",DT.DOD.DECT.CD,423000000000
+Turkey,TUR,"External debt stocks, total (DOD, current US$)",DT.DOD.DECT.CD,406000000000
+Indonesia,IDN,"External debt stocks, total (DOD, current US$)",DT.DOD.DECT.CD,316000000000
+"IDA only",IDX,"External debt stocks, total (DOD, current US$)",DT.DOD.DECT.CD,306000000000
+"Least developed countries:UN",LDC,"External debt stocks, total (DOD, current US$)",DT.DOD.DECT.CD,267000000000
+"Middle East & North Africa",MNA,"External debt stocks, total (DOD, current US$)",DT.DOD.DECT.CD,225000000000
+Malaysia,MYS,"External debt stocks, total (DOD, current US$)",DT.DOD.DECT.CD,200000000000
+Argentina,ARG,"External debt stocks, total (DOD, current US$)",DT.DOD.DECT.CD,190000000000
+Kazakhstan,KAZ,"External debt stocks, total (DOD, current US$)",DT.DOD.DECT.CD,164000000000
+"South Africa",ZAF,"External debt stocks, total (DOD, current US$)",DT.DOD.DECT.CD,146000000000
+"Low income",LIC,"External debt stocks, total (DOD, current US$)",DT.DOD.DECT.CD,121000000000
+Thailand,THA,"External debt stocks, total (DOD, current US$)",DT.DOD.DECT.CD,121000000000
+Colombia,COL,"External debt stocks, total (DOD, current US$)",DT.DOD.DECT.CD,120000000000
+Ukraine,UKR,"External debt stocks, total (DOD, current US$)",DT.DOD.DECT.CD,118000000000
+"Venezuela, RB",VEN,"External debt stocks, total (DOD, current US$)",DT.DOD.DECT.CD,113000000000
+Romania,ROU,"External debt stocks, total (DOD, current US$)",DT.DOD.DECT.CD,95888350000
+Panama,PAN,"External debt stocks, total (DOD, current US$)",DT.DOD.DECT.CD,89492146000
+Vietnam,VNM,"External debt stocks, total (DOD, current US$)",DT.DOD.DECT.CD,86952492000
+Philippines,PHL,"External debt stocks, total (DOD, current US$)",DT.DOD.DECT.CD,77319196000
+Pakistan,PAK,"External debt stocks, total (DOD, current US$)",DT.DOD.DECT.CD,72697473000
+Peru,PER,"External debt stocks, total (DOD, current US$)",DT.DOD.DECT.CD,69503047000
+"Egypt, Arab Rep.",EGY,"External debt stocks, total (DOD, current US$)",DT.DOD.DECT.CD,67214081000
+"Sri Lanka",LKA,"External debt stocks, total (DOD, current US$)",DT.DOD.DECT.CD,46607902000
+Morocco,MAR,"External debt stocks, total (DOD, current US$)",DT.DOD.DECT.CD,46264659000
+Bangladesh,BGD,"External debt stocks, total (DOD, current US$)",DT.DOD.DECT.CD,41125641000
+Bulgaria,BGR,"External debt stocks, total (DOD, current US$)",DT.DOD.DECT.CD,39656828000
+Belarus,BLR,"External debt stocks, total (DOD, current US$)",DT.DOD.DECT.CD,37515486000
+Angola,AGO,"External debt stocks, total (DOD, current US$)",DT.DOD.DECT.CD,35364607000
+Ecuador,ECU,"External debt stocks, total (DOD, current US$)",DT.DOD.DECT.CD,34083487000
+Lebanon,LBN,"External debt stocks, total (DOD, current US$)",DT.DOD.DECT.CD,31960710000
+Nigeria,NGA,"External debt stocks, total (DOD, current US$)",DT.DOD.DECT.CD,31151475000
+Serbia,SRB,"External debt stocks, total (DOD, current US$)",DT.DOD.DECT.CD,29599394000
+Tunisia,TUN,"External debt stocks, total (DOD, current US$)",DT.DOD.DECT.CD,28110513000
+"Dominican Republic",DOM,"External debt stocks, total (DOD, current US$)",DT.DOD.DECT.CD,28030898000
+Jordan,JOR,"External debt stocks, total (DOD, current US$)",DT.DOD.DECT.CD,27125916000
+"Costa Rica",CRI,"External debt stocks, total (DOD, current US$)",DT.DOD.DECT.CD,25567060000
+Mongolia,MNG,"External debt stocks, total (DOD, current US$)",DT.DOD.DECT.CD,23912336000
+Ethiopia,ETH,"External debt stocks, total (DOD, current US$)",DT.DOD.DECT.CD,23062955000
+Kenya,KEN,"External debt stocks, total (DOD, current US$)",DT.DOD.DECT.CD,22324987000
+Ghana,GHA,"External debt stocks, total (DOD, current US$)",DT.DOD.DECT.CD,21396063000
+Guatemala,GTM,"External debt stocks, total (DOD, current US$)",DT.DOD.DECT.CD,21234013000
+Sudan,SDN,"External debt stocks, total (DOD, current US$)",DT.DOD.DECT.CD,21082004000
+"Papua New Guinea",PNG,"External debt stocks, total (DOD, current US$)",DT.DOD.DECT.CD,19688489000
+Mauritius,MUS,"External debt stocks, total (DOD, current US$)",DT.DOD.DECT.CD,17952076000
+Tanzania,TZA,"External debt stocks, total (DOD, current US$)",DT.DOD.DECT.CD,16474516000
+Paraguay,PRY,"External debt stocks, total (DOD, current US$)",DT.DOD.DECT.CD,16323430000
+Uzbekistan,UZB,"External debt stocks, total (DOD, current US$)",DT.DOD.DECT.CD,16282526000
+Georgia,GEO,"External debt stocks, total (DOD, current US$)",DT.DOD.DECT.CD,15986792000
+"El Salvador",SLV,"External debt stocks, total (DOD, current US$)",DT.DOD.DECT.CD,15424892000
+"Lao PDR",LAO,"External debt stocks, total (DOD, current US$)",DT.DOD.DECT.CD,14159855000
+Azerbaijan,AZE,"External debt stocks, total (DOD, current US$)",DT.DOD.DECT.CD,14085341000
+Jamaica,JAM,"External debt stocks, total (DOD, current US$)",DT.DOD.DECT.CD,14052570000
+"Cote d'Ivoire",CIV,"External debt stocks, total (DOD, current US$)",DT.DOD.DECT.CD,11344089000
+Bolivia,BOL,"External debt stocks, total (DOD, current US$)",DT.DOD.DECT.CD,11015313000
+Nicaragua,NIC,"External debt stocks, total (DOD, current US$)",DT.DOD.DECT.CD,10990903000
+"Bosnia and Herzegovina",BIH,"External debt stocks, total (DOD, current US$)",DT.DOD.DECT.CD,10957714000
+Mozambique,MOZ,"External debt stocks, total (DOD, current US$)",DT.DOD.DECT.CD,10293919000
+Cambodia,KHM,"External debt stocks, total (DOD, current US$)",DT.DOD.DECT.CD,10230215000
+Armenia,ARM,"External debt stocks, total (DOD, current US$)",DT.DOD.DECT.CD,9953091000
+Uganda,UGA,"External debt stocks, total (DOD, current US$)",DT.DOD.DECT.CD,9946994000
+Zambia,ZMB,"External debt stocks, total (DOD, current US$)",DT.DOD.DECT.CD,9547794000
+Zimbabwe,ZWE,"External debt stocks, total (DOD, current US$)",DT.DOD.DECT.CD,8897584000
+Albania,ALB,"External debt stocks, total (DOD, current US$)",DT.DOD.DECT.CD,8437141000
+"Kyrgyz Republic",KGZ,"External debt stocks, total (DOD, current US$)",DT.DOD.DECT.CD,7876314000
+Honduras,HND,"External debt stocks, total (DOD, current US$)",DT.DOD.DECT.CD,7579336000
+"Macedonia, FYR",MKD,"External debt stocks, total (DOD, current US$)",DT.DOD.DECT.CD,7382761000
+Cameroon,CMR,"External debt stocks, total (DOD, current US$)",DT.DOD.DECT.CD,7283225000
+"Yemen, Rep.",YEM,"External debt stocks, total (DOD, current US$)",DT.DOD.DECT.CD,7065832000
+Senegal,SEN,"External debt stocks, total (DOD, current US$)",DT.DOD.DECT.CD,6637541000
+Moldova,MDA,"External debt stocks, total (DOD, current US$)",DT.DOD.DECT.CD,6594690000
+Myanmar,MMR,"External debt stocks, total (DOD, current US$)",DT.DOD.DECT.CD,6453002000
+Algeria,DZA,"External debt stocks, total (DOD, current US$)",DT.DOD.DECT.CD,5466348000
+"Iran, Islamic Rep.",IRN,"External debt stocks, total (DOD, current US$)",DT.DOD.DECT.CD,5378273000
+"Congo, Dem. Rep.",COD,"External debt stocks, total (DOD, current US$)",DT.DOD.DECT.CD,5076936000
+Gabon,GAB,"External debt stocks, total (DOD, current US$)",DT.DOD.DECT.CD,5076812000
+Tajikistan,TJK,"External debt stocks, total (DOD, current US$)",DT.DOD.DECT.CD,4876658000
+"Syrian Arab Republic",SYR,"External debt stocks, total (DOD, current US$)",DT.DOD.DECT.CD,4394035000
+Nepal,NPL,"External debt stocks, total (DOD, current US$)",DT.DOD.DECT.CD,4251270000
+"Congo, Rep.",COG,"External debt stocks, total (DOD, current US$)",DT.DOD.DECT.CD,3836872000
+Mauritania,MRT,"External debt stocks, total (DOD, current US$)",DT.DOD.DECT.CD,3833466000
+Mali,MLI,"External debt stocks, total (DOD, current US$)",DT.DOD.DECT.CD,3787945000
+Niger,NER,"External debt stocks, total (DOD, current US$)",DT.DOD.DECT.CD,3233062000
+Madagascar,MDG,"External debt stocks, total (DOD, current US$)",DT.DOD.DECT.CD,2934513000
+"Burkina Faso",BFA,"External debt stocks, total (DOD, current US$)",DT.DOD.DECT.CD,2824879000
+Rwanda,RWA,"External debt stocks, total (DOD, current US$)",DT.DOD.DECT.CD,2783188000
+Montenegro,MNE,"External debt stocks, total (DOD, current US$)",DT.DOD.DECT.CD,2707121000
+Somalia,SOM,"External debt stocks, total (DOD, current US$)",DT.DOD.DECT.CD,2649210000
+Afghanistan,AFG,"External debt stocks, total (DOD, current US$)",DT.DOD.DECT.CD,2403867000
+Bhutan,BTN,"External debt stocks, total (DOD, current US$)",DT.DOD.DECT.CD,2348179000
+Benin,BEN,"External debt stocks, total (DOD, current US$)",DT.DOD.DECT.CD,2323370000
+Haiti,HTI,"External debt stocks, total (DOD, current US$)",DT.DOD.DECT.CD,2158090000
+Kosovo,XKX,"External debt stocks, total (DOD, current US$)",DT.DOD.DECT.CD,2152306000
+Botswana,BWA,"External debt stocks, total (DOD, current US$)",DT.DOD.DECT.CD,2100343000
+Malawi,MWI,"External debt stocks, total (DOD, current US$)",DT.DOD.DECT.CD,1846561000
+Djibouti,DJI,"External debt stocks, total (DOD, current US$)",DT.DOD.DECT.CD,1706359000
+Chad,TCD,"External debt stocks, total (DOD, current US$)",DT.DOD.DECT.CD,1654990000
+Guyana,GUY,"External debt stocks, total (DOD, current US$)",DT.DOD.DECT.CD,1638937000
+"Cabo Verde",CPV,"External debt stocks, total (DOD, current US$)",DT.DOD.DECT.CD,1539390000
+"Sierra Leone",SLE,"External debt stocks, total (DOD, current US$)",DT.DOD.DECT.CD,1472407000
+Guinea,GIN,"External debt stocks, total (DOD, current US$)",DT.DOD.DECT.CD,1378171000
+Belize,BLZ,"External debt stocks, total (DOD, current US$)",DT.DOD.DECT.CD,1344359000
+Grenada,GRD,"External debt stocks, total (DOD, current US$)",DT.DOD.DECT.CD,1296661000
+Togo,TGO,"External debt stocks, total (DOD, current US$)",DT.DOD.DECT.CD,1176008000
+Maldives,MDV,"External debt stocks, total (DOD, current US$)",DT.DOD.DECT.CD,1155159000
+Liberia,LBR,"External debt stocks, total (DOD, current US$)",DT.DOD.DECT.CD,951620000
+Lesotho,LSO,"External debt stocks, total (DOD, current US$)",DT.DOD.DECT.CD,883326000
+Fiji,FJI,"External debt stocks, total (DOD, current US$)",DT.DOD.DECT.CD,867762000
+Eritrea,ERI,"External debt stocks, total (DOD, current US$)",DT.DOD.DECT.CD,796402000
+"Central African Republic",CAF,"External debt stocks, total (DOD, current US$)",DT.DOD.DECT.CD,682203000
+Burundi,BDI,"External debt stocks, total (DOD, current US$)",DT.DOD.DECT.CD,632780000
+"St. Lucia",LCA,"External debt stocks, total (DOD, current US$)",DT.DOD.DECT.CD,551039000
+Turkmenistan,TKM,"External debt stocks, total (DOD, current US$)",DT.DOD.DECT.CD,508683000
+"Gambia, The",GMB,"External debt stocks, total (DOD, current US$)",DT.DOD.DECT.CD,505448000
+Swaziland,SWZ,"External debt stocks, total (DOD, current US$)",DT.DOD.DECT.CD,497239000
+Samoa,WSM,"External debt stocks, total (DOD, current US$)",DT.DOD.DECT.CD,417455000
+"St. Vincent and the Grenadines",VCT,"External debt stocks, total (DOD, current US$)",DT.DOD.DECT.CD,370127000
+Dominica,DMA,"External debt stocks, total (DOD, current US$)",DT.DOD.DECT.CD,297065000
+Guinea-Bissau,GNB,"External debt stocks, total (DOD, current US$)",DT.DOD.DECT.CD,295006000
+"Sao Tome and Principe",STP,"External debt stocks, total (DOD, current US$)",DT.DOD.DECT.CD,247976000
+"Solomon Islands",SLB,"External debt stocks, total (DOD, current US$)",DT.DOD.DECT.CD,240262000
+Vanuatu,VUT,"External debt stocks, total (DOD, current US$)",DT.DOD.DECT.CD,213109000
+Comoros,COM,"External debt stocks, total (DOD, current US$)",DT.DOD.DECT.CD,159918000
+Tonga,TON,"External debt stocks, total (DOD, current US$)",DT.DOD.DECT.CD,159855000

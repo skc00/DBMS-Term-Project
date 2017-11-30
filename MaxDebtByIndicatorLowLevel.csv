@@ -1,0 +1,141 @@
+country_name,country_code,indicator_name,indicator_code,year16
+Afghanistan,AFG,"PPG, multilateral (DOD, current US$)",DT.DOD.MLAT.CD,992239000
+Albania,ALB,"PPG, multilateral (DOD, current US$)",DT.DOD.MLAT.CD,1947391000
+Algeria,DZA,"External debt stocks, short-term (DOD, current US$)",DT.DOD.DSTC.CD,1985910000
+Angola,AGO,"PPG, bilateral (DOD, current US$)",DT.DOD.BLAT.CD,20499334000
+Argentina,ARG,"PPG, bonds (DOD, current US$)",DT.DOD.PBND.CD,74050913000
+Armenia,ARM,"PPG, multilateral (DOD, current US$)",DT.DOD.MLAT.CD,2822862000
+Azerbaijan,AZE,"PPG, multilateral (DOD, current US$)",DT.DOD.MLAT.CD,4398981000
+Bangladesh,BGD,"PPG, multilateral (DOD, current US$)",DT.DOD.MLAT.CD,20848691000
+Belarus,BLR,"External debt stocks, short-term (DOD, current US$)",DT.DOD.DSTC.CD,10621999000
+Belize,BLZ,"PPG, bonds (DOD, current US$)",DT.DOD.PBND.CD,526502000
+Belize,BLZ,"PPG, private creditors (DOD, current US$)",DT.DOD.PRVT.CD,526502000
+Benin,BEN,"PPG, multilateral (DOD, current US$)",DT.DOD.MLAT.CD,1656919000
+Bhutan,BTN,"PPG, bilateral (DOD, current US$)",DT.DOD.BLAT.CD,1719197000
+Bolivia,BOL,"PPG, multilateral (DOD, current US$)",DT.DOD.MLAT.CD,5279609000
+"Bosnia and Herzegovina",BIH,"PPG, multilateral (DOD, current US$)",DT.DOD.MLAT.CD,3229863000
+Botswana,BWA,"PPG, multilateral (DOD, current US$)",DT.DOD.MLAT.CD,1569826000
+Brazil,BRA,"Disbursements on external debt, long-term + IMF (DIS, current US$)",DT.DIS.DLTF.CD,106000000000
+Bulgaria,BGR,"External debt stocks, short-term (DOD, current US$)",DT.DOD.DSTC.CD,8609323000
+"Burkina Faso",BFA,"PPG, multilateral (DOD, current US$)",DT.DOD.MLAT.CD,2201906000
+Burundi,BDI,"PPG, multilateral (DOD, current US$)",DT.DOD.MLAT.CD,340558000
+"Cabo Verde",CPV,"PPG, multilateral (DOD, current US$)",DT.DOD.MLAT.CD,720903000
+Cambodia,KHM,"PPG, bilateral (DOD, current US$)",DT.DOD.BLAT.CD,3911721000
+Cameroon,CMR,"PPG, bilateral (DOD, current US$)",DT.DOD.BLAT.CD,3264509000
+"Central African Republic",CAF,"PPG, bilateral (DOD, current US$)",DT.DOD.BLAT.CD,282168000
+Chad,TCD,"PPG, bilateral (DOD, current US$)",DT.DOD.BLAT.CD,696009000
+China,CHN,"External debt stocks, total (DOD, current US$)",DT.DOD.DECT.CD,1430000000000
+China,CHN,"External debt stocks, short-term (DOD, current US$)",DT.DOD.DSTC.CD,801000000000
+Colombia,COL,"PPG, bonds (DOD, current US$)",DT.DOD.PBND.CD,37543200000
+Comoros,COM,"PPG, bilateral (DOD, current US$)",DT.DOD.BLAT.CD,77951000
+"Congo, Dem. Rep.",COD,"PPG, bilateral (DOD, current US$)",DT.DOD.BLAT.CD,2124169000
+"Congo, Rep.",COG,"PPG, bilateral (DOD, current US$)",DT.DOD.BLAT.CD,2214625000
+"Costa Rica",CRI,"PPG, bonds (DOD, current US$)",DT.DOD.PBND.CD,6375945000
+"Cote d'Ivoire",CIV,"PPG, bilateral (DOD, current US$)",DT.DOD.BLAT.CD,3058241000
+Djibouti,DJI,"PPG, bilateral (DOD, current US$)",DT.DOD.BLAT.CD,1113326000
+Dominica,DMA,"PPG, multilateral (DOD, current US$)",DT.DOD.MLAT.CD,127147000
+"Dominican Republic",DOM,"PPG, bonds (DOD, current US$)",DT.DOD.PBND.CD,9812080000
+"East Asia & Pacific ",EAP,"External debt stocks, short-term (DOD, current US$)",DT.DOD.DSTC.CD,1010000000000
+Ecuador,ECU,"Disbursements on external debt, long-term + IMF (DIS, current US$)",DT.DIS.DLTF.CD,10038962000
+"Egypt, Arab Rep.",EGY,"PPG, bilateral (DOD, current US$)",DT.DOD.BLAT.CD,31712330000
+"El Salvador",SLV,"PPG, bonds (DOD, current US$)",DT.DOD.PBND.CD,3339443000
+Eritrea,ERI,"PPG, multilateral (DOD, current US$)",DT.DOD.MLAT.CD,557516000
+Ethiopia,ETH,"PPG, multilateral (DOD, current US$)",DT.DOD.MLAT.CD,8157788000
+"Europe & Central Asia",ECA,"Disbursements on external debt, long-term + IMF (DIS, current US$)",DT.DIS.DLTF.CD,235000000000
+"Europe & Central Asia",ECA,"PPG, commercial banks (DOD, current US$)",DT.DOD.PCBK.CD,109000000000
+Fiji,FJI,"PPG, bilateral (DOD, current US$)",DT.DOD.BLAT.CD,255856000
+Gabon,GAB,"PPG, bonds (DOD, current US$)",DT.DOD.PBND.CD,2218129000
+"Gambia, The",GMB,"PPG, multilateral (DOD, current US$)",DT.DOD.MLAT.CD,292964000
+Georgia,GEO,"PPG, multilateral (DOD, current US$)",DT.DOD.MLAT.CD,3165568000
+Ghana,GHA,"PPG, multilateral (DOD, current US$)",DT.DOD.MLAT.CD,4728611000
+Grenada,GRD,"Disbursements on external debt, long-term + IMF (DIS, current US$)",DT.DIS.DLTF.CD,661977000
+Guatemala,GTM,"PPG, multilateral (DOD, current US$)",DT.DOD.MLAT.CD,5197488000
+Guinea,GIN,"PPG, multilateral (DOD, current US$)",DT.DOD.MLAT.CD,612175000
+Guinea-Bissau,GNB,"PPG, multilateral (DOD, current US$)",DT.DOD.MLAT.CD,119687000
+Guyana,GUY,"PPG, multilateral (DOD, current US$)",DT.DOD.MLAT.CD,693775000
+Haiti,HTI,"PPG, bilateral (DOD, current US$)",DT.DOD.BLAT.CD,1845715000
+Honduras,HND,"PPG, multilateral (DOD, current US$)",DT.DOD.MLAT.CD,3869529000
+"IDA only",IDX,"PPG, multilateral (DOD, current US$)",DT.DOD.MLAT.CD,105000000000
+India,IND,"External debt stocks, short-term (DOD, current US$)",DT.DOD.DSTC.CD,83821000000
+Indonesia,IDN,"PPG, bonds (DOD, current US$)",DT.DOD.PBND.CD,115000000000
+"Iran, Islamic Rep.",IRN,"External debt stocks, short-term (DOD, current US$)",DT.DOD.DSTC.CD,2794000000
+Jamaica,JAM,"PPG, bonds (DOD, current US$)",DT.DOD.PBND.CD,5637156000
+Jordan,JOR,"External debt stocks, short-term (DOD, current US$)",DT.DOD.DSTC.CD,10433940000
+Kazakhstan,KAZ,"Disbursements on external debt, long-term + IMF (DIS, current US$)",DT.DIS.DLTF.CD,23825761000
+Kenya,KEN,"PPG, multilateral (DOD, current US$)",DT.DOD.MLAT.CD,6987842000
+Kosovo,XKX,"External debt stocks, short-term (DOD, current US$)",DT.DOD.DSTC.CD,621000000
+"Kyrgyz Republic",KGZ,"PPG, bilateral (DOD, current US$)",DT.DOD.BLAT.CD,2225285000
+"Lao PDR",LAO,"PPG, bilateral (DOD, current US$)",DT.DOD.BLAT.CD,4626730000
+"Latin America & Caribbean",LAC,"PPG, bonds (DOD, current US$)",DT.DOD.PBND.CD,459000000000
+"Least developed countries:UN",LDC,"PPG, multilateral (DOD, current US$)",DT.DOD.MLAT.CD,89080588000
+Lebanon,LBN,"PPG, bonds (DOD, current US$)",DT.DOD.PBND.CD,25744029000
+Lesotho,LSO,"PPG, multilateral (DOD, current US$)",DT.DOD.MLAT.CD,648612000
+Liberia,LBR,"PPG, multilateral (DOD, current US$)",DT.DOD.MLAT.CD,402572000
+"Low & middle income",LMY,"Use of IMF credit (DOD, current US$)",DT.DOD.DIMF.CD,115000000000
+"Low & middle income",LMY,"External debt stocks, short-term (DOD, current US$)",DT.DOD.DSTC.CD,1710000000000
+"Low income",LIC,"PPG, multilateral (DOD, current US$)",DT.DOD.MLAT.CD,51446843000
+"Lower middle income",LMC,"PPG, multilateral (DOD, current US$)",DT.DOD.MLAT.CD,297000000000
+"Macedonia, FYR",MKD,"Disbursements on external debt, long-term + IMF (DIS, current US$)",DT.DIS.DLTF.CD,1327853000
+Madagascar,MDG,"PPG, multilateral (DOD, current US$)",DT.DOD.MLAT.CD,1968969000
+Malawi,MWI,"PPG, multilateral (DOD, current US$)",DT.DOD.MLAT.CD,1087406000
+Malaysia,MYS,"External debt stocks, short-term (DOD, current US$)",DT.DOD.DSTC.CD,82231435000
+Maldives,MDV,"PPG, bilateral (DOD, current US$)",DT.DOD.BLAT.CD,600767000
+Mali,MLI,"PPG, multilateral (DOD, current US$)",DT.DOD.MLAT.CD,2502098000
+Mauritania,MRT,"PPG, multilateral (DOD, current US$)",DT.DOD.MLAT.CD,2026260000
+Mauritius,MUS,"External debt stocks, short-term (DOD, current US$)",DT.DOD.DSTC.CD,4602927000
+Mexico,MEX,"PPG, bonds (DOD, current US$)",DT.DOD.PBND.CD,208000000000
+"Middle East & North Africa",MNA,"PPG, bilateral (DOD, current US$)",DT.DOD.BLAT.CD,53207396000
+"Middle income",MIC,"External debt stocks, short-term (DOD, current US$)",DT.DOD.DSTC.CD,1700000000000
+Moldova,MDA,"External debt stocks, short-term (DOD, current US$)",DT.DOD.DSTC.CD,1750880000
+Mongolia,MNG,"Disbursements on external debt, long-term + IMF (DIS, current US$)",DT.DIS.DLTF.CD,3298251000
+Montenegro,MNE,"PPG, bonds (DOD, current US$)",DT.DOD.PBND.CD,1138428000
+Morocco,MAR,"PPG, multilateral (DOD, current US$)",DT.DOD.MLAT.CD,13345660000
+Mozambique,MOZ,"PPG, multilateral (DOD, current US$)",DT.DOD.MLAT.CD,3689959000
+Myanmar,MMR,"PPG, bilateral (DOD, current US$)",DT.DOD.BLAT.CD,3382561000
+Nepal,NPL,"PPG, multilateral (DOD, current US$)",DT.DOD.MLAT.CD,3305104000
+Nicaragua,NIC,"PPG, multilateral (DOD, current US$)",DT.DOD.MLAT.CD,3075607000
+Niger,NER,"PPG, multilateral (DOD, current US$)",DT.DOD.MLAT.CD,1663804000
+Nigeria,NGA,"PPG, multilateral (DOD, current US$)",DT.DOD.MLAT.CD,8061527000
+Pakistan,PAK,"PPG, multilateral (DOD, current US$)",DT.DOD.MLAT.CD,25091978000
+Panama,PAN,"External debt stocks, short-term (DOD, current US$)",DT.DOD.DSTC.CD,43297000000
+"Papua New Guinea",PNG,"Principal repayments on external debt, long-term + IMF (AMT, current US$)",DT.AMT.DLTF.CD,2660309000
+Paraguay,PRY,"External debt stocks, short-term (DOD, current US$)",DT.DOD.DSTC.CD,4696000000
+Peru,PER,"PNG, bonds (DOD, current US$)",DT.DOD.PNGB.CD,14899654000
+Philippines,PHL,"PPG, bonds (DOD, current US$)",DT.DOD.PBND.CD,14532724000
+Romania,ROU,"PPG, bonds (DOD, current US$)",DT.DOD.PBND.CD,19453300000
+"Russian Federation",RUS,"PPG, commercial banks (DOD, current US$)",DT.DOD.PCBK.CD,87864070000
+Rwanda,RWA,"PPG, multilateral (DOD, current US$)",DT.DOD.MLAT.CD,1645502000
+Samoa,WSM,"PPG, multilateral (DOD, current US$)",DT.DOD.MLAT.CD,203703000
+"Sao Tome and Principe",STP,"PPG, bilateral (DOD, current US$)",DT.DOD.BLAT.CD,183908000
+Senegal,SEN,"PPG, multilateral (DOD, current US$)",DT.DOD.MLAT.CD,3032021000
+Serbia,SRB,"PPG, bonds (DOD, current US$)",DT.DOD.PBND.CD,6250000000
+"Sierra Leone",SLE,"PPG, multilateral (DOD, current US$)",DT.DOD.MLAT.CD,602469000
+"Solomon Islands",SLB,"PPG, multilateral (DOD, current US$)",DT.DOD.MLAT.CD,75861000
+Somalia,SOM,"PPG, bilateral (DOD, current US$)",DT.DOD.BLAT.CD,1093095000
+"South Africa",ZAF,"PPG, bonds (DOD, current US$)",DT.DOD.PBND.CD,55678094000
+"South Asia",SAS,"PPG, multilateral (DOD, current US$)",DT.DOD.MLAT.CD,109000000000
+"Sri Lanka",LKA,"PPG, bilateral (DOD, current US$)",DT.DOD.BLAT.CD,10480721000
+"St. Lucia",LCA,"PPG, multilateral (DOD, current US$)",DT.DOD.MLAT.CD,213216000
+"St. Vincent and the Grenadines",VCT,"PPG, multilateral (DOD, current US$)",DT.DOD.MLAT.CD,260250000
+"Sub-Saharan Africa",SSA,"PPG, multilateral (DOD, current US$)",DT.DOD.MLAT.CD,87133946000
+Sudan,SDN,"PPG, bilateral (DOD, current US$)",DT.DOD.BLAT.CD,7645413000
+Swaziland,SWZ,"PPG, multilateral (DOD, current US$)",DT.DOD.MLAT.CD,189858000
+"Syrian Arab Republic",SYR,"PPG, bilateral (DOD, current US$)",DT.DOD.BLAT.CD,2094691000
+Tajikistan,TJK,"PPG, bilateral (DOD, current US$)",DT.DOD.BLAT.CD,953316000
+Tanzania,TZA,"PPG, multilateral (DOD, current US$)",DT.DOD.MLAT.CD,7654316000
+Thailand,THA,"External debt stocks, short-term (DOD, current US$)",DT.DOD.DSTC.CD,52790089000
+Togo,TGO,"PPG, bilateral (DOD, current US$)",DT.DOD.BLAT.CD,521174000
+Tonga,TON,"PPG, bilateral (DOD, current US$)",DT.DOD.BLAT.CD,90244000
+Tunisia,TUN,"PPG, multilateral (DOD, current US$)",DT.DOD.MLAT.CD,9201250000
+Turkey,TUR,"External debt stocks, short-term (DOD, current US$)",DT.DOD.DSTC.CD,98002000000
+Turkmenistan,TKM,"External debt stocks, short-term (DOD, current US$)",DT.DOD.DSTC.CD,150776000
+Uganda,UGA,"PPG, multilateral (DOD, current US$)",DT.DOD.MLAT.CD,4077191000
+Ukraine,UKR,"PPG, bonds (DOD, current US$)",DT.DOD.PBND.CD,20945903000
+"Upper middle income",UMC,"External debt stocks, short-term (DOD, current US$)",DT.DOD.DSTC.CD,1430000000000
+Uzbekistan,UZB,"PPG, bilateral (DOD, current US$)",DT.DOD.BLAT.CD,3686364000
+Vanuatu,VUT,"PPG, bilateral (DOD, current US$)",DT.DOD.BLAT.CD,83727000
+"Venezuela, RB",VEN,"PPG, bonds (DOD, current US$)",DT.DOD.PBND.CD,30779614000
+Vietnam,VNM,"PPG, multilateral (DOD, current US$)",DT.DOD.MLAT.CD,21158120000
+"Yemen, Rep.",YEM,"PPG, bilateral (DOD, current US$)",DT.DOD.BLAT.CD,3283393000
+Zambia,ZMB,"PPG, bonds (DOD, current US$)",DT.DOD.PBND.CD,3000000000
+Zimbabwe,ZWE,"External debt stocks, short-term (DOD, current US$)",DT.DOD.DSTC.CD,2985208000

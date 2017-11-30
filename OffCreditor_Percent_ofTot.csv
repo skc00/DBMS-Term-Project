@@ -1,0 +1,137 @@
+country_name,country_code,indicator_name,indicator_code,year16,Percent_Of_Tot_Debt,Tot_Debt
+Tonga,TON,"PPG, official creditors (DOD, current US$)",DT.DOD.OFFT.CD,150505000,94.1509,159855000
+Djibouti,DJI,"PPG, official creditors (DOD, current US$)",DT.DOD.OFFT.CD,1603707000,93.9841,1706359000
+Samoa,WSM,"PPG, official creditors (DOD, current US$)",DT.DOD.OFFT.CD,390070000,93.4400,417455000
+Bhutan,BTN,"PPG, official creditors (DOD, current US$)",DT.DOD.OFFT.CD,2179391000,92.8120,2348179000
+"St. Vincent and the Grenadines",VCT,"PPG, official creditors (DOD, current US$)",DT.DOD.OFFT.CD,335806000,90.7272,370127000
+Mauritania,MRT,"PPG, official creditors (DOD, current US$)",DT.DOD.OFFT.CD,3466386000,90.4243,3833466000
+"Sao Tome and Principe",STP,"PPG, official creditors (DOD, current US$)",DT.DOD.OFFT.CD,223854000,90.2724,247976000
+Mali,MLI,"PPG, official creditors (DOD, current US$)",DT.DOD.OFFT.CD,3417519000,90.2209,3787945000
+Eritrea,ERI,"PPG, official creditors (DOD, current US$)",DT.DOD.OFFT.CD,718470000,90.2145,796402000
+"Burkina Faso",BFA,"PPG, official creditors (DOD, current US$)",DT.DOD.OFFT.CD,2537963000,89.8432,2824879000
+Haiti,HTI,"PPG, official creditors (DOD, current US$)",DT.DOD.OFFT.CD,1934953000,89.6604,2158090000
+"Yemen, Rep.",YEM,"PPG, official creditors (DOD, current US$)",DT.DOD.OFFT.CD,6322902000,89.4856,7065832000
+Niger,NER,"PPG, official creditors (DOD, current US$)",DT.DOD.OFFT.CD,2881830000,89.1362,3233062000
+Lesotho,LSO,"PPG, official creditors (DOD, current US$)",DT.DOD.OFFT.CD,771685000,87.3613,883326000
+Benin,BEN,"PPG, official creditors (DOD, current US$)",DT.DOD.OFFT.CD,2025492000,87.1791,2323370000
+Nepal,NPL,"PPG, official creditors (DOD, current US$)",DT.DOD.OFFT.CD,3623161000,85.2254,4251270000
+Comoros,COM,"PPG, official creditors (DOD, current US$)",DT.DOD.OFFT.CD,131819000,82.4291,159918000
+"Cabo Verde",CPV,"PPG, official creditors (DOD, current US$)",DT.DOD.OFFT.CD,1259562000,81.8222,1539390000
+Malawi,MWI,"PPG, official creditors (DOD, current US$)",DT.DOD.OFFT.CD,1506568000,81.5878,1846561000
+Afghanistan,AFG,"PPG, official creditors (DOD, current US$)",DT.DOD.OFFT.CD,1921469000,79.9324,2403867000
+"Gambia, The",GMB,"PPG, official creditors (DOD, current US$)",DT.DOD.OFFT.CD,402719000,79.6757,505448000
+"Syrian Arab Republic",SYR,"PPG, official creditors (DOD, current US$)",DT.DOD.OFFT.CD,3497893000,79.6055,4394035000
+Madagascar,MDG,"PPG, official creditors (DOD, current US$)",DT.DOD.OFFT.CD,2333482000,79.5185,2934513000
+Togo,TGO,"PPG, official creditors (DOD, current US$)",DT.DOD.OFFT.CD,920805000,78.2992,1176008000
+Botswana,BWA,"PPG, official creditors (DOD, current US$)",DT.DOD.OFFT.CD,1632026000,77.7028,2100343000
+Senegal,SEN,"PPG, official creditors (DOD, current US$)",DT.DOD.OFFT.CD,5056862000,76.1858,6637541000
+Chad,TCD,"PPG, official creditors (DOD, current US$)",DT.DOD.OFFT.CD,1260301000,76.1516,1654990000
+"Congo, Dem. Rep.",COD,"PPG, official creditors (DOD, current US$)",DT.DOD.OFFT.CD,3853672000,75.9055,5076936000
+Guinea-Bissau,GNB,"PPG, official creditors (DOD, current US$)",DT.DOD.OFFT.CD,219907000,74.5432,295006000
+Myanmar,MMR,"PPG, official creditors (DOD, current US$)",DT.DOD.OFFT.CD,4793095000,74.2770,6453002000
+Dominica,DMA,"PPG, official creditors (DOD, current US$)",DT.DOD.OFFT.CD,219245000,73.8037,297065000
+Maldives,MDV,"PPG, official creditors (DOD, current US$)",DT.DOD.OFFT.CD,852142000,73.7684,1155159000
+Mozambique,MOZ,"PPG, official creditors (DOD, current US$)",DT.DOD.OFFT.CD,7358464000,71.4836,10293919000
+"Egypt, Arab Rep.",EGY,"PPG, official creditors (DOD, current US$)",DT.DOD.OFFT.CD,47437888000,70.5773,67214081000
+Rwanda,RWA,"PPG, official creditors (DOD, current US$)",DT.DOD.OFFT.CD,1953295000,70.1819,2783188000
+Bangladesh,BGD,"PPG, official creditors (DOD, current US$)",DT.DOD.OFFT.CD,28643094000,69.6478,41125641000
+Ethiopia,ETH,"PPG, official creditors (DOD, current US$)",DT.DOD.OFFT.CD,16036875000,69.5352,23062955000
+Burundi,BDI,"PPG, official creditors (DOD, current US$)",DT.DOD.OFFT.CD,434491000,68.6638,632780000
+"Low income",LIC,"PPG, official creditors (DOD, current US$)",DT.DOD.OFFT.CD,83047044000,68.6339,121000000000
+Cameroon,CMR,"PPG, official creditors (DOD, current US$)",DT.DOD.OFFT.CD,4914872000,67.4821,7283225000
+"Least developed countries:UN",LDC,"PPG, official creditors (DOD, current US$)",DT.DOD.OFFT.CD,177000000000,66.2921,267000000000
+Swaziland,SWZ,"PPG, official creditors (DOD, current US$)",DT.DOD.OFFT.CD,327641000,65.8921,497239000
+Vanuatu,VUT,"PPG, official creditors (DOD, current US$)",DT.DOD.OFFT.CD,137387000,64.4679,213109000
+"Congo, Rep.",COG,"PPG, official creditors (DOD, current US$)",DT.DOD.OFFT.CD,2457131000,64.0400,3836872000
+Angola,AGO,"PPG, official creditors (DOD, current US$)",DT.DOD.OFFT.CD,22517753000,63.6731,35364607000
+Guinea,GIN,"PPG, official creditors (DOD, current US$)",DT.DOD.OFFT.CD,870246000,63.1450,1378171000
+Honduras,HND,"PPG, official creditors (DOD, current US$)",DT.DOD.OFFT.CD,4772517000,62.9675,7579336000
+Guyana,GUY,"PPG, official creditors (DOD, current US$)",DT.DOD.OFFT.CD,1028117000,62.7307,1638937000
+Kenya,KEN,"PPG, official creditors (DOD, current US$)",DT.DOD.OFFT.CD,13918344000,62.3442,22324987000
+"IDA only",IDX,"PPG, official creditors (DOD, current US$)",DT.DOD.OFFT.CD,188000000000,61.4379,306000000000
+Somalia,SOM,"PPG, official creditors (DOD, current US$)",DT.DOD.OFFT.CD,1610997000,60.8105,2649210000
+Tanzania,TZA,"PPG, official creditors (DOD, current US$)",DT.DOD.OFFT.CD,9811920000,59.5582,16474516000
+Pakistan,PAK,"PPG, official creditors (DOD, current US$)",DT.DOD.OFFT.CD,41922189000,57.6666,72697473000
+Liberia,LBR,"PPG, official creditors (DOD, current US$)",DT.DOD.OFFT.CD,527279000,55.4086,951620000
+Cambodia,KHM,"PPG, official creditors (DOD, current US$)",DT.DOD.OFFT.CD,5646481000,55.1942,10230215000
+Uganda,UGA,"PPG, official creditors (DOD, current US$)",DT.DOD.OFFT.CD,5447316000,54.7634,9946994000
+Bolivia,BOL,"PPG, official creditors (DOD, current US$)",DT.DOD.OFFT.CD,6019308000,54.6449,11015313000
+"Central African Republic",CAF,"PPG, official creditors (DOD, current US$)",DT.DOD.OFFT.CD,370581000,54.3212,682203000
+Sudan,SDN,"PPG, official creditors (DOD, current US$)",DT.DOD.OFFT.CD,10998345000,52.1694,21082004000
+"Sierra Leone",SLE,"PPG, official creditors (DOD, current US$)",DT.DOD.OFFT.CD,759403000,51.5756,1472407000
+Fiji,FJI,"PPG, official creditors (DOD, current US$)",DT.DOD.OFFT.CD,428669000,49.3994,867762000
+Belize,BLZ,"PPG, official creditors (DOD, current US$)",DT.DOD.OFFT.CD,650125000,48.3595,1344359000
+Ecuador,ECU,"PPG, official creditors (DOD, current US$)",DT.DOD.OFFT.CD,16242710000,47.6557,34083487000
+Vietnam,VNM,"PPG, official creditors (DOD, current US$)",DT.DOD.OFFT.CD,40356960000,46.4127,86952492000
+Turkmenistan,TKM,"PPG, official creditors (DOD, current US$)",DT.DOD.OFFT.CD,235510000,46.2980,508683000
+Tunisia,TUN,"PPG, official creditors (DOD, current US$)",DT.DOD.OFFT.CD,12902915000,45.9007,28110513000
+"St. Lucia",LCA,"PPG, official creditors (DOD, current US$)",DT.DOD.OFFT.CD,250205000,45.4060,551039000
+"Middle East & North Africa",MNA,"PPG, official creditors (DOD, current US$)",DT.DOD.OFFT.CD,102000000000,45.3333,225000000000
+"Kyrgyz Republic",KGZ,"PPG, official creditors (DOD, current US$)",DT.DOD.OFFT.CD,3563859000,45.2478,7876314000
+Morocco,MAR,"PPG, official creditors (DOD, current US$)",DT.DOD.OFFT.CD,20732353000,44.8125,46264659000
+Uzbekistan,UZB,"PPG, official creditors (DOD, current US$)",DT.DOD.OFFT.CD,7164916000,44.0037,16282526000
+"Lao PDR",LAO,"PPG, official creditors (DOD, current US$)",DT.DOD.OFFT.CD,6093816000,43.0359,14159855000
+Ghana,GHA,"PPG, official creditors (DOD, current US$)",DT.DOD.OFFT.CD,8802059000,41.1387,21396063000
+Montenegro,MNE,"PPG, official creditors (DOD, current US$)",DT.DOD.OFFT.CD,1086899000,40.1496,2707121000
+Azerbaijan,AZE,"PPG, official creditors (DOD, current US$)",DT.DOD.OFFT.CD,5524693000,39.2230,14085341000
+Zambia,ZMB,"PPG, official creditors (DOD, current US$)",DT.DOD.OFFT.CD,3718147000,38.9425,9547794000
+Tajikistan,TJK,"PPG, official creditors (DOD, current US$)",DT.DOD.OFFT.CD,1862192000,38.1858,4876658000
+Nicaragua,NIC,"PPG, official creditors (DOD, current US$)",DT.DOD.OFFT.CD,4188954000,38.1129,10990903000
+"Sri Lanka",LKA,"PPG, official creditors (DOD, current US$)",DT.DOD.OFFT.CD,17666599000,37.9047,46607902000
+"Sub-Saharan Africa",SSA,"PPG, official creditors (DOD, current US$)",DT.DOD.OFFT.CD,172000000000,37.8855,454000000000
+"Bosnia and Herzegovina",BIH,"PPG, official creditors (DOD, current US$)",DT.DOD.OFFT.CD,4040880000,36.8770,10957714000
+"Solomon Islands",SLB,"PPG, official creditors (DOD, current US$)",DT.DOD.OFFT.CD,86656000,36.0673,240262000
+"Cote d'Ivoire",CIV,"PPG, official creditors (DOD, current US$)",DT.DOD.OFFT.CD,4080393000,35.9693,11344089000
+Zimbabwe,ZWE,"PPG, official creditors (DOD, current US$)",DT.DOD.OFFT.CD,3119185000,35.0565,8897584000
+Armenia,ARM,"PPG, official creditors (DOD, current US$)",DT.DOD.OFFT.CD,3445447000,34.6169,9953091000
+Nigeria,NGA,"PPG, official creditors (DOD, current US$)",DT.DOD.OFFT.CD,10411937000,33.4236,31151475000
+Gabon,GAB,"PPG, official creditors (DOD, current US$)",DT.DOD.OFFT.CD,1620022000,31.9102,5076812000
+Albania,ALB,"PPG, official creditors (DOD, current US$)",DT.DOD.OFFT.CD,2622741000,31.0857,8437141000
+"Lower middle income",LMC,"PPG, official creditors (DOD, current US$)",DT.DOD.OFFT.CD,541000000000,30.5650,1770000000000
+Serbia,SRB,"PPG, official creditors (DOD, current US$)",DT.DOD.OFFT.CD,9028908000,30.5037,29599394000
+Belarus,BLR,"PPG, official creditors (DOD, current US$)",DT.DOD.OFFT.CD,11369576000,30.3064,37515486000
+Algeria,DZA,"PPG, official creditors (DOD, current US$)",DT.DOD.OFFT.CD,1546703000,28.2950,5466348000
+"South Asia",SAS,"PPG, official creditors (DOD, current US$)",DT.DOD.OFFT.CD,170000000000,27.1132,627000000000
+Guatemala,GTM,"PPG, official creditors (DOD, current US$)",DT.DOD.OFFT.CD,5683595000,26.7665,21234013000
+Jamaica,JAM,"PPG, official creditors (DOD, current US$)",DT.DOD.OFFT.CD,3634036000,25.8603,14052570000
+Grenada,GRD,"PPG, official creditors (DOD, current US$)",DT.DOD.OFFT.CD,330149000,25.4615,1296661000
+Georgia,GEO,"PPG, official creditors (DOD, current US$)",DT.DOD.OFFT.CD,3901309000,24.4033,15986792000
+"El Salvador",SLV,"PPG, official creditors (DOD, current US$)",DT.DOD.OFFT.CD,3729228000,24.1767,15424892000
+Philippines,PHL,"PPG, official creditors (DOD, current US$)",DT.DOD.OFFT.CD,18398375000,23.7954,77319196000
+"Macedonia, FYR",MKD,"PPG, official creditors (DOD, current US$)",DT.DOD.OFFT.CD,1736761000,23.5245,7382761000
+Jordan,JOR,"PPG, official creditors (DOD, current US$)",DT.DOD.OFFT.CD,6028871000,22.2255,27125916000
+Colombia,COL,"PPG, official creditors (DOD, current US$)",DT.DOD.OFFT.CD,25008239000,20.8402,120000000000
+"Dominican Republic",DOM,"PPG, official creditors (DOD, current US$)",DT.DOD.OFFT.CD,5831369000,20.8034,28030898000
+Moldova,MDA,"PPG, official creditors (DOD, current US$)",DT.DOD.OFFT.CD,1189128000,18.0316,6594690000
+Indonesia,IDN,"PPG, official creditors (DOD, current US$)",DT.DOD.OFFT.CD,51200857000,16.2028,316000000000
+India,IND,"PPG, official creditors (DOD, current US$)",DT.DOD.OFFT.CD,73177673000,16.0477,456000000000
+Paraguay,PRY,"PPG, official creditors (DOD, current US$)",DT.DOD.OFFT.CD,2376390000,14.5582,16323430000
+Argentina,ARG,"PPG, official creditors (DOD, current US$)",DT.DOD.OFFT.CD,27136667000,14.2825,190000000000
+"Low & middle income",LMY,"PPG, official creditors (DOD, current US$)",DT.DOD.OFFT.CD,969000000000,14.0843,6880000000000
+Romania,ROU,"PPG, official creditors (DOD, current US$)",DT.DOD.OFFT.CD,12736129000,13.2822,95888350000
+Kosovo,XKX,"PPG, official creditors (DOD, current US$)",DT.DOD.OFFT.CD,282092000,13.1065,2152306000
+"Middle income",MIC,"PPG, official creditors (DOD, current US$)",DT.DOD.OFFT.CD,886000000000,13.1065,6760000000000
+Ukraine,UKR,"PPG, official creditors (DOD, current US$)",DT.DOD.OFFT.CD,15005744000,12.7167,118000000000
+"Costa Rica",CRI,"PPG, official creditors (DOD, current US$)",DT.DOD.OFFT.CD,3226595000,12.6201,25567060000
+"Latin America & Caribbean",LAC,"PPG, official creditors (DOD, current US$)",DT.DOD.OFFT.CD,206000000000,11.8391,1740000000000
+Peru,PER,"PPG, official creditors (DOD, current US$)",DT.DOD.OFFT.CD,8108253000,11.6660,69503047000
+Mongolia,MNG,"PPG, official creditors (DOD, current US$)",DT.DOD.OFFT.CD,2266249000,9.4773,23912336000
+"Iran, Islamic Rep.",IRN,"PPG, official creditors (DOD, current US$)",DT.DOD.OFFT.CD,492367000,9.1547,5378273000
+Mauritius,MUS,"PPG, official creditors (DOD, current US$)",DT.DOD.OFFT.CD,1600692000,8.9165,17952076000
+"Papua New Guinea",PNG,"PPG, official creditors (DOD, current US$)",DT.DOD.OFFT.CD,1702524000,8.6473,19688489000
+"Europe & Central Asia",ECA,"PPG, official creditors (DOD, current US$)",DT.DOD.OFFT.CD,129000000000,8.4868,1520000000000
+"East Asia & Pacific ",EAP,"PPG, official creditors (DOD, current US$)",DT.DOD.OFFT.CD,190000000000,8.2251,2310000000000
+"Venezuela, RB",VEN,"PPG, official creditors (DOD, current US$)",DT.DOD.OFFT.CD,8753847000,7.7468,113000000000
+Turkey,TUR,"PPG, official creditors (DOD, current US$)",DT.DOD.OFFT.CD,30929350000,7.6181,406000000000
+Brazil,BRA,"PPG, official creditors (DOD, current US$)",DT.DOD.OFFT.CD,40729027000,7.5007,543000000000
+Mexico,MEX,"PPG, official creditors (DOD, current US$)",DT.DOD.OFFT.CD,31163553000,7.3673,423000000000
+Bulgaria,BGR,"PPG, official creditors (DOD, current US$)",DT.DOD.OFFT.CD,2816688000,7.1027,39656828000
+"Upper middle income",UMC,"PPG, official creditors (DOD, current US$)",DT.DOD.OFFT.CD,344000000000,6.9076,4980000000000
+Panama,PAN,"PPG, official creditors (DOD, current US$)",DT.DOD.OFFT.CD,4765757000,5.3253,89492146000
+Kazakhstan,KAZ,"PPG, official creditors (DOD, current US$)",DT.DOD.OFFT.CD,7990904000,4.8725,164000000000
+Thailand,THA,"PPG, official creditors (DOD, current US$)",DT.DOD.OFFT.CD,5482951000,4.5314,121000000000
+Lebanon,LBN,"PPG, official creditors (DOD, current US$)",DT.DOD.OFFT.CD,1253019000,3.9205,31960710000
+China,CHN,"PPG, official creditors (DOD, current US$)",DT.DOD.OFFT.CD,51189657000,3.5797,1430000000000
+"South Africa",ZAF,"PPG, official creditors (DOD, current US$)",DT.DOD.OFFT.CD,4076092000,2.7918,146000000000
+Malaysia,MYS,"PPG, official creditors (DOD, current US$)",DT.DOD.OFFT.CD,1557230000,0.7786,200000000000
+"Russian Federation",RUS,"PPG, official creditors (DOD, current US$)",DT.DOD.OFFT.CD,2123770000,0.4045,525000000000
